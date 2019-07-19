@@ -1,0 +1,26 @@
+{
+  "name": "is-bullish",
+  "version": "1.0.0",
+  "description": "tryes to figure out if a given sequence looks increasing",
+  "main": "is-bullish.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibo/is-bullish.git"
+  },
+  "keywords": [
+    "sequence",
+    "trend"
+  ],
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibo/is-bullish/issues"
+  },
+  "homepage": "https://g14n.info/is-bullish"
+}
