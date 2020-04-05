@@ -5,12 +5,8 @@
   "main": "is-bullish.js",
   "scripts": {
     "postversion": "git push origin v${npm_package_version}; npm publish; git push origin master",
-    "standa": "standa",
     "test": "node test.js"
   },
-  "pre-commit": [
-    "standa"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fibo/is-bullish.git"
@@ -28,8 +24,5 @@
     "url": "https://github.com/fibo/is-bullish/issues"
   },
   "homepage": "https://g14n.info/is-bullish",
-  "devDependencies": {
-    "pre-commit": "^1.2.2",
-    "standa": "^12.2.0"
-  }
+  "devDependencies": {}
 }
