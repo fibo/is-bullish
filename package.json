@@ -1,6 +1,6 @@
 {
   "name": "is-bullish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tryes to figure out if a given sequence looks increasing",
   "main": "is-bullish.js",
   "scripts": {
